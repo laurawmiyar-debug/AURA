@@ -1,5 +1,3 @@
-# AURA
-Personal assistant
 # Aura Fitness API
 
 Servidor para conectar Google Fitness (Fitbit) con Aura vía iOS Shortcuts.
