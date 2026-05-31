@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
-REDIRECT_URI = "https://aura-fitbit.onrender.com/callback"
+REDIRECT_URI = "https://aura-pp1o.onrender.com/callback"
 SCOPES = [
     "https://www.googleapis.com/auth/fitness.sleep.read",
     "https://www.googleapis.com/auth/fitness.heart_rate.read",
